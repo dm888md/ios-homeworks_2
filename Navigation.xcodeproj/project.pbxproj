@@ -28,6 +28,7 @@
 		6858FE2E2C2FD42B004D6BCC /* StorageService.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6858FE282C2FD42B004D6BCC /* StorageService.framework */; };
 		6858FE2F2C2FD42B004D6BCC /* StorageService.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 6858FE282C2FD42B004D6BCC /* StorageService.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		6858FE342C2FD43C004D6BCC /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3601A2C128495DDF000D261A /* Post.swift */; };
+		6858FE392C301AC4004D6BCC /* PostExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C5F0642850C9D1005EFC6C /* PostExamples.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -154,7 +155,6 @@
 				36528E40284FE38C00965BA4 /* ExtensionUIView.swift */,
 				36528E3B284F725E00965BA4 /* LayoutConstants.swift */,
 				36C5F05D2850B4A6005EFC6C /* PhotoExamples.swift */,
-				36C5F0642850C9D1005EFC6C /* PostExamples.swift */,
 			);
 			path = Library;
 			sourceTree = "<group>";
@@ -164,6 +164,7 @@
 			children = (
 				6858FE2A2C2FD42B004D6BCC /* StorageService.h */,
 				3601A2C128495DDF000D261A /* Post.swift */,
+				36C5F0642850C9D1005EFC6C /* PostExamples.swift */,
 			);
 			path = StorageService;
 			sourceTree = "<group>";
@@ -302,6 +303,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6858FE392C301AC4004D6BCC /* PostExamples.swift in Sources */,
 				6858FE342C2FD43C004D6BCC /* Post.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
