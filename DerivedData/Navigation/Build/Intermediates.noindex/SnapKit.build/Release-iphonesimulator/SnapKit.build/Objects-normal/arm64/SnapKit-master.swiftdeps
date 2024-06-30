@@ -1,0 +1,81 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "14ec291c2752d41e9d76c842f7cbbb45a991e03914a09b1e0e4272c5d82af3c0"
+build_start_time: [1719714298, 389769000]
+build_end_time: [1719714299, 973806000]
+inputs:
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/SnapKit.build/Release-iphonesimulator/SnapKit.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1719714298, 222586000]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/Constraint.swift"
+  : [1719714207, 58420486]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintAttributes.swift"
+  : [1719714207, 58524359]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintConfig.swift"
+  : [1719714207, 58594565]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift"
+  : [1719714207, 58672272]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintDSL.swift"
+  : [1719714207, 58900600]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintDescription.swift"
+  : [1719714207, 58982973]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift"
+  : [1719714207, 59057180]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift"
+  : [1719714207, 59128387]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift"
+  : [1719714207, 59194135]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsets.swift"
+  : [1719714207, 59257592]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintItem.swift"
+  : [1719714207, 59324257]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift"
+  : [1719714207, 59387548]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift"
+  : [1719714207, 59469379]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift"
+  : [1719714207, 59537294]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift"
+  : [1719714207, 59597543]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift"
+  : [1719714207, 59665958]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMaker.swift"
+  : [1719714207, 59728165]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift"
+  : [1719714207, 59807705]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift"
+  : [1719714207, 59887828]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift"
+  : [1719714207, 59954910]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift"
+  : [1719714207, 60020617]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift"
+  : [1719714207, 60082032]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift"
+  : [1719714207, 60144572]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift"
+  : [1719714207, 60210946]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift"
+  : [1719714207, 60273153]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriority.swift"
+  : [1719714207, 60342901]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift"
+  : [1719714207, 60405150]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift"
+  : [1719714207, 60465565]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelation.swift"
+  : [1719714207, 60529480]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift"
+  : [1719714207, 60607395]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintView.swift"
+  : [1719714207, 60669561]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/ConstraintViewDSL.swift"
+  : [1719714207, 60752850]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/Debugging.swift"
+  : [1719714207, 60839182]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraint.swift"
+  : [1719714207, 60911847]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraintItem.swift"
+  : [1719714207, 60987095]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/Typealiases.swift"
+  : [1719714207, 61115259]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift"
+  : [1719714207, 61179924]
