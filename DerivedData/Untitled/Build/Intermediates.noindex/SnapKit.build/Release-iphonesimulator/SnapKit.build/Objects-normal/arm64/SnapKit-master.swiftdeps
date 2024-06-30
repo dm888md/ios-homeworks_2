@@ -1,0 +1,81 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "e5b6abafb20e084538f5e668784ac00f6c2f0375e5ddb8430d68ff61f729859f"
+build_start_time: [1719709053, 168901000]
+build_end_time: [1719709054, 707733000]
+inputs:
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Untitled/Build/Intermediates.noindex/SnapKit.build/Release-iphonesimulator/SnapKit.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1719709053, 141630000]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/Constraint.swift"
+  : [1719707930, 753916220]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintAttributes.swift"
+  : [1719707930, 754059095]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintConfig.swift"
+  : [1719707930, 754121928]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift"
+  : [1719707930, 754209177]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintDSL.swift"
+  : [1719707930, 755066006]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintDescription.swift"
+  : [1719707930, 755134548]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift"
+  : [1719707930, 755202422]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift"
+  : [1719707930, 755262755]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift"
+  : [1719707930, 755316589]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsets.swift"
+  : [1719707930, 755369713]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintItem.swift"
+  : [1719707930, 755427088]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift"
+  : [1719707930, 755481838]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift"
+  : [1719707930, 755535671]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift"
+  : [1719707930, 755593129]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift"
+  : [1719707930, 755642295]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift"
+  : [1719707930, 755699712]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintMaker.swift"
+  : [1719707930, 755770586]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift"
+  : [1719707930, 755843878]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift"
+  : [1719707930, 755922377]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift"
+  : [1719707930, 755978127]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift"
+  : [1719707930, 756034126]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift"
+  : [1719707930, 756087293]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift"
+  : [1719707930, 756154626]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift"
+  : [1719707930, 756209251]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift"
+  : [1719707930, 756263084]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriority.swift"
+  : [1719707930, 756321292]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift"
+  : [1719707930, 756375958]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift"
+  : [1719707930, 756427499]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelation.swift"
+  : [1719707930, 756492957]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift"
+  : [1719707930, 756568040]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintView.swift"
+  : [1719707930, 756622873]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/ConstraintViewDSL.swift"
+  : [1719707930, 756695790]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/Debugging.swift"
+  : [1719707930, 756774664]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraint.swift"
+  : [1719707930, 756835289]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraintItem.swift"
+  : [1719707930, 756896622]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/Typealiases.swift"
+  : [1719707930, 756997205]
+  ? "/Users/dmitrij/Library/Developer/Xcode/DerivedData/Untitled-gkhdmiqvevplydauzspvowaopmbi/SourcePackages/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift"
+  : [1719707930, 757051538]

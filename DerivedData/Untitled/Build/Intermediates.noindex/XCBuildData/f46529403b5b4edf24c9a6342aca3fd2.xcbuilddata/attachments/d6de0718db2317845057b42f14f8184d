@@ -1,0 +1,20 @@
+{
+  "" : {
+    "const-values" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/StorageService.build/Objects-normal/arm64/StorageService-master.swiftconstvalues",
+    "dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/StorageService.build/Objects-normal/arm64/StorageService-master.d",
+    "diagnostics" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/StorageService.build/Objects-normal/arm64/StorageService-master.dia",
+    "emit-module-dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/StorageService.build/Objects-normal/arm64/StorageService-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/StorageService.build/Objects-normal/arm64/StorageService-master-emit-module.dia",
+    "swift-dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/StorageService.build/Objects-normal/arm64/StorageService-master.swiftdeps"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/StorageService/Post.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/StorageService.build/Objects-normal/arm64/Post.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/StorageService.build/Objects-normal/arm64/Post.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/StorageService.build/Objects-normal/arm64/Post.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/StorageService/PostExamples.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/StorageService.build/Objects-normal/arm64/PostExamples.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/StorageService.build/Objects-normal/arm64/PostExamples.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/StorageService.build/Objects-normal/arm64/PostExamples.o"
+  }
+}

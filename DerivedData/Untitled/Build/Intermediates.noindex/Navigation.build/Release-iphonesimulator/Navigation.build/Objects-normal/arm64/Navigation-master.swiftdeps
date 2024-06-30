@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "2df78d7c3f36be221ec9cbd98a912ab2297226f09380eb24d2fb4fbfa52f9d81"
+build_start_time: [1719713764, 265617000]
+build_end_time: [1719713765, 953955000]
+inputs:
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Untitled/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1719708452, 324705694]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/AppDelegate.swift": [1667873416, 0]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/FeedViewController.swift": [1719708528, 364877015]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/InfoViewController.swift": [1719708528, 365015265]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/Library/ExtensionUIImage.swift": [1667873416, 0]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/Library/ExtensionUIView.swift": [1667873416, 0]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/Library/LayoutConstants.swift": [1667873416, 0]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/Library/PhotoExamples.swift": [1667873416, 0]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/Profile/LoginViewController.swift": [1719706863, 415854904]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/Profile/PhotosCollectionViewCell.swift": [1719639961, 213463395]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/Profile/PhotosTableViewCell.swift": [1719639961, 206059149]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/Profile/PhotosViewController.swift": [1719639961, 189514354]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/Profile/PostTableViewCell.swift": [1719640504, 715671478]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/Profile/PostViewController.swift": [1719640968, 476243274]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/Profile/ProfileHeaderView.swift": [1719713764, 36038147]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/Navigation/Profile/ProfileViewController.swift": [1719640950, 272428363]

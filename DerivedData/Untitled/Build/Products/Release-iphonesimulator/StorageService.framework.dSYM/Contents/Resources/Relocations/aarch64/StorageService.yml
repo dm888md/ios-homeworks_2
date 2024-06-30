@@ -1,0 +1,27 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Build/Products/Release-iphonesimulator/StorageService.framework/StorageService"
+relocations:
+  - { offsetInCU: 0x34, offset: 0x38CA1, size: 0x8, addend: 0x0, symName: _StorageServiceVersionString, symObjAddr: 0x0, symBinAddr: 0x3CE0, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x38CD6, size: 0x8, addend: 0x0, symName: _StorageServiceVersionNumber, symObjAddr: 0x38, symBinAddr: 0x3D18, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x38D13, size: 0x8, addend: 0x0, symName: '_$s14StorageService12postExamples_WZ', symObjAddr: 0x0, symBinAddr: 0x3784, symSize: 0x190 }
+  - { offsetInCU: 0x4B, offset: 0x38D37, size: 0x8, addend: 0x0, symName: '_$s14StorageService12postExamplesSayAA4PostVGvp', symObjAddr: 0x268, symBinAddr: 0x8008, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0x38DAC, size: 0x8, addend: 0x0, symName: '_$s14StorageService12postExamples_WZ', symObjAddr: 0x0, symBinAddr: 0x3784, symSize: 0x190 }
+  - { offsetInCU: 0x1A5, offset: 0x38E91, size: 0x8, addend: 0x0, symName: '_$s14StorageService12postExamplesSayAA4PostVGvg', symObjAddr: 0x190, symBinAddr: 0x3914, symSize: 0x40 }
+  - { offsetInCU: 0x1DB, offset: 0x38EC7, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x1D0, symBinAddr: 0x3954, symSize: 0x40 }
+  - { offsetInCU: 0x27, offset: 0x38FE2, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostV6authorSSvg', symObjAddr: 0x0, symBinAddr: 0x3994, symSize: 0x2C }
+  - { offsetInCU: 0xB5, offset: 0x39070, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostVwCP', symObjAddr: 0x94, symBinAddr: 0x3A28, symSize: 0x30 }
+  - { offsetInCU: 0xC9, offset: 0x39084, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostVwxx', symObjAddr: 0xC4, symBinAddr: 0x3A58, symSize: 0x30 }
+  - { offsetInCU: 0xDD, offset: 0x39098, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostVwcp', symObjAddr: 0xF4, symBinAddr: 0x3A88, symSize: 0x5C }
+  - { offsetInCU: 0xF1, offset: 0x390AC, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostVwca', symObjAddr: 0x150, symBinAddr: 0x3AE4, symSize: 0x9C }
+  - { offsetInCU: 0x105, offset: 0x390C0, size: 0x8, addend: 0x0, symName: ___swift_memcpy64_8, symObjAddr: 0x1EC, symBinAddr: 0x3B80, symSize: 0x14 }
+  - { offsetInCU: 0x119, offset: 0x390D4, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostVwta', symObjAddr: 0x200, symBinAddr: 0x3B94, symSize: 0x5C }
+  - { offsetInCU: 0x12D, offset: 0x390E8, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostVwet', symObjAddr: 0x25C, symBinAddr: 0x3BF0, symSize: 0x48 }
+  - { offsetInCU: 0x141, offset: 0x390FC, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostVwst', symObjAddr: 0x2A4, symBinAddr: 0x3C38, symSize: 0x50 }
+  - { offsetInCU: 0x155, offset: 0x39110, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostVMa', symObjAddr: 0x2F4, symBinAddr: 0x3C88, symSize: 0x10 }
+  - { offsetInCU: 0x1D1, offset: 0x3918C, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostV6authorSSvg', symObjAddr: 0x0, symBinAddr: 0x3994, symSize: 0x2C }
+  - { offsetInCU: 0x1E5, offset: 0x391A0, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostV11descriptionSSvg', symObjAddr: 0x2C, symBinAddr: 0x39C0, symSize: 0x2C }
+  - { offsetInCU: 0x1F9, offset: 0x391B4, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostV5imageSSvg', symObjAddr: 0x58, symBinAddr: 0x39EC, symSize: 0x2C }
+  - { offsetInCU: 0x20D, offset: 0x391C8, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostV5likesSivg', symObjAddr: 0x84, symBinAddr: 0x3A18, symSize: 0x8 }
+  - { offsetInCU: 0x221, offset: 0x391DC, size: 0x8, addend: 0x0, symName: '_$s14StorageService4PostV5viewsSivg', symObjAddr: 0x8C, symBinAddr: 0x3A20, symSize: 0x8 }
+...

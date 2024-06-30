@@ -24,6 +24,7 @@
 		36C5F05E2850B4A6005EFC6C /* PhotoExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C5F05D2850B4A6005EFC6C /* PhotoExamples.swift */; };
 		36C5F0612850B723005EFC6C /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C5F0602850B723005EFC6C /* PhotosViewController.swift */; };
 		36C5F0632850B7B6005EFC6C /* PhotosCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C5F0622850B7B6005EFC6C /* PhotosCollectionViewCell.swift */; };
+		6827E3FD2C30E39E00BDFEBC /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 6827E3FC2C30E39E00BDFEBC /* SnapKit */; };
 		6858FE2B2C2FD42B004D6BCC /* StorageService.h in Headers */ = {isa = PBXBuildFile; fileRef = 6858FE2A2C2FD42B004D6BCC /* StorageService.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6858FE2E2C2FD42B004D6BCC /* StorageService.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6858FE282C2FD42B004D6BCC /* StorageService.framework */; };
 		6858FE2F2C2FD42B004D6BCC /* StorageService.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 6858FE282C2FD42B004D6BCC /* StorageService.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
@@ -87,6 +88,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6858FE2E2C2FD42B004D6BCC /* StorageService.framework in Frameworks */,
+				6827E3FD2C30E39E00BDFEBC /* SnapKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -106,6 +108,7 @@
 				3601A2A628490DDF000D261A /* Navigation */,
 				6858FE292C2FD42B004D6BCC /* StorageService */,
 				3601A2A528490DDF000D261A /* Products */,
+				6827E4012C30E4B500BDFEBC /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -159,6 +162,13 @@
 			path = Library;
 			sourceTree = "<group>";
 		};
+		6827E4012C30E4B500BDFEBC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		6858FE292C2FD42B004D6BCC /* StorageService */ = {
 			isa = PBXGroup;
 			children = (
@@ -198,6 +208,9 @@
 				6858FE2D2C2FD42B004D6BCC /* PBXTargetDependency */,
 			);
 			name = Navigation;
+			packageProductDependencies = (
+				6827E3FC2C30E39E00BDFEBC /* SnapKit */,
+			);
 			productName = Navigation;
 			productReference = 3601A2A428490DDF000D261A /* Navigation.app */;
 			productType = "com.apple.product-type.application";
@@ -247,6 +260,9 @@
 				Base,
 			);
 			mainGroup = 3601A29B28490DDF000D261A;
+			packageReferences = (
+				6827E3FB2C30E39E00BDFEBC /* XCRemoteSwiftPackageReference "SnapKit" */,
+			);
 			productRefGroup = 3601A2A528490DDF000D261A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -620,6 +636,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		6827E3FB2C30E39E00BDFEBC /* XCRemoteSwiftPackageReference "SnapKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SnapKit/SnapKit.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.7.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		6827E3FC2C30E39E00BDFEBC /* SnapKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6827E3FB2C30E39E00BDFEBC /* XCRemoteSwiftPackageReference "SnapKit" */;
+			productName = SnapKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 3601A29C28490DDF000D261A /* Project object */;
 }

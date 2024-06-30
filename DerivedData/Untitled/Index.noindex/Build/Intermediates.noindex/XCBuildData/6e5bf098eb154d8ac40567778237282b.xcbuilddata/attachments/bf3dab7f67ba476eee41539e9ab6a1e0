@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Intermediates.noindex/Navigation.build/Debug-iphonesimulator/StorageService.build/Objects-normal/arm64/StorageService-master.d",
+    "diagnostics" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Intermediates.noindex/Navigation.build/Debug-iphonesimulator/StorageService.build/Objects-normal/arm64/StorageService-master.dia",
+    "emit-module-dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Intermediates.noindex/Navigation.build/Debug-iphonesimulator/StorageService.build/Objects-normal/arm64/StorageService-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Intermediates.noindex/Navigation.build/Debug-iphonesimulator/StorageService.build/Objects-normal/arm64/StorageService-master-emit-module.dia",
+    "swift-dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Intermediates.noindex/Navigation.build/Debug-iphonesimulator/StorageService.build/Objects-normal/arm64/StorageService-master.swiftdeps"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/StorageService/Post.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/StorageService/PostExamples.swift" : {
+
+  }
+}

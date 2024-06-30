@@ -1,0 +1,57 @@
+{
+  "" : {
+    "dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Intermediates.noindex/Navigation.build/Debug-iphoneos/Navigation.build/Objects-normal/arm64/Navigation-master.d",
+    "diagnostics" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Intermediates.noindex/Navigation.build/Debug-iphoneos/Navigation.build/Objects-normal/arm64/Navigation-master.dia",
+    "emit-module-dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Intermediates.noindex/Navigation.build/Debug-iphoneos/Navigation.build/Objects-normal/arm64/Navigation-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Intermediates.noindex/Navigation.build/Debug-iphoneos/Navigation.build/Objects-normal/arm64/Navigation-master-emit-module.dia",
+    "swift-dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Intermediates.noindex/Navigation.build/Debug-iphoneos/Navigation.build/Objects-normal/arm64/Navigation-master.swiftdeps"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Intermediates.noindex/Navigation.build/Debug-iphoneos/Navigation.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/AppDelegate.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/FeedViewController.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/InfoViewController.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Library/ExtensionUIImage.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Library/ExtensionUIView.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Library/LayoutConstants.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Library/PhotoExamples.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/LoginViewController.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/PhotosCollectionViewCell.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/PhotosTableViewCell.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/PhotosViewController.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/PostTableViewCell.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/PostViewController.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/ProfileHeaderView.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/ProfileViewController.swift" : {
+
+  }
+}

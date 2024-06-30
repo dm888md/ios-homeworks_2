@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "9fcea423d43f85a2e49fa37f741ab6374f0d91b457e5fff045ae67b415bb8587"
+    }
+  ],
+  "containerPath" : "/Users/dmitrij/Documents/Обучение/MyProject/Untitled.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Build/Products",
+      "pchPath" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Untitled/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

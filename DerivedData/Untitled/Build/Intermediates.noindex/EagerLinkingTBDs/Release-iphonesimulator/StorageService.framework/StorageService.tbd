@@ -1,0 +1,52 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_StorageServiceVersionString",
+            "_$s14StorageService4PostV11descriptionSSvpMV",
+            "_$s14StorageService4PostV5imageSSvpMV",
+            "_$s14StorageService4PostV5viewsSivpMV",
+            "_$s14StorageService12postExamplesSayAA4PostVGvg",
+            "_$s14StorageService4PostV6authorSSvpMV",
+            "_$s14StorageService4PostVN",
+            "_$s14StorageService4PostV5viewsSivg",
+            "_$s14StorageService4PostV5likesSivpMV",
+            "_$s14StorageService4PostVMa",
+            "_$s14StorageService4PostV6authorSSvg",
+            "_$s14StorageService4PostVMn",
+            "_$s14StorageService4PostV5likesSivg",
+            "_$s14StorageService4PostV11descriptionSSvg",
+            "_$s14StorageService4PostV5imageSSvg",
+            "_StorageServiceVersionNumber"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/StorageService.framework/StorageService"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "17.5",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}
