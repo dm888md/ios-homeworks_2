@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
 options: "d4bfe1d8e0bd80be807418389b8f1bcb98cd2cf4631fd81e97a2d3fa5e4a900f"
-build_start_time: [1719714298, 387115000]
-build_end_time: [1719714300, 273607000]
+build_start_time: [1719841825, 560209000]
+build_end_time: [1719841827, 724407000]
 inputs:
   "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/StorageService/Post.swift": [1719708629, 553531818]
-  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/StorageService/PostExamples.swift": [1719657317, 888903624]
+  "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/StorageService/PostExamples.swift": [1719716722, 819088113]

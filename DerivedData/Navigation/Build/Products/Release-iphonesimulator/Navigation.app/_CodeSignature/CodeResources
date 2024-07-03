@@ -68,6 +68,34 @@
 		<data>
 		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 		</data>
+		<key>iOSIntPackage_iOSIntPackage.bundle/Assets.car</key>
+		<data>
+		YVl+gzMUhj2y5Yq20OsZRUduc9c=
+		</data>
+		<key>iOSIntPackage_iOSIntPackage.bundle/Info.plist</key>
+		<data>
+		S26xJLtX13mYuJ6DB5LTwqd4nlA=
+		</data>
+		<key>iOSIntPackage_iOSIntPackage.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		+1sRcWv8PAZXdkmVnxhwgLqNzbI=
+		</data>
+		<key>iOSIntPackage_iOSIntPackage.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		OnX22wWFKRSOFN1+obRynMCeyXM=
+		</data>
+		<key>iOSIntPackage_iOSIntPackage.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		NNeKaFwW9Cjv5+6UgfXH2jhpMsI=
+		</data>
+		<key>iOSIntPackage_iOSIntPackage.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		RORH829KsTb1iaQjLFxIi8uTL6k=
+		</data>
+		<key>iOSIntPackage_iOSIntPackage.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -163,6 +191,55 @@
 			</data>
 		</dict>
 		<key>SnapKit_SnapKit.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>iOSIntPackage_iOSIntPackage.bundle/Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aLwoFAK+XvInzpgzcmL4O1nfWqOH9EiIvHSQVS28Yhc=
+			</data>
+		</dict>
+		<key>iOSIntPackage_iOSIntPackage.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JJOMu1KFNSmw7L2ZNw9LV50ax//VGDSmZqyHsehlLHs=
+			</data>
+		</dict>
+		<key>iOSIntPackage_iOSIntPackage.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fd/QnueYDZX7iaeEFQp7CIVm5vSfgdzqVHXot0bXoW0=
+			</data>
+		</dict>
+		<key>iOSIntPackage_iOSIntPackage.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
+			</data>
+		</dict>
+		<key>iOSIntPackage_iOSIntPackage.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UlG/9J6Fum+56ZO5HvhsvunWjFUbU7DnkoN7+7YKUig=
+			</data>
+		</dict>
+		<key>iOSIntPackage_iOSIntPackage.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/9x/9TbB7BlBaIbt0p4GJIa7+OsM7gj03zmdXEdqiQU=
+			</data>
+		</dict>
+		<key>iOSIntPackage_iOSIntPackage.bundle/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash2</key>
 			<data>

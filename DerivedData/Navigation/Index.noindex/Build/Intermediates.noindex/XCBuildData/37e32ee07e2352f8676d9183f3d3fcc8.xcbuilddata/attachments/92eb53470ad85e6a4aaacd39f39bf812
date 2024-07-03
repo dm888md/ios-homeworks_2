@@ -1,0 +1,27 @@
+{
+  "" : {
+    "dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Index.noindex/Build/Intermediates.noindex/iOSIntPackage.build/Debug-iphoneos/iOSIntPackage.build/Objects-normal/arm64/iOSIntPackage-master.d",
+    "diagnostics" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Index.noindex/Build/Intermediates.noindex/iOSIntPackage.build/Debug-iphoneos/iOSIntPackage.build/Objects-normal/arm64/iOSIntPackage-master.dia",
+    "emit-module-dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Index.noindex/Build/Intermediates.noindex/iOSIntPackage.build/Debug-iphoneos/iOSIntPackage.build/Objects-normal/arm64/iOSIntPackage-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Index.noindex/Build/Intermediates.noindex/iOSIntPackage.build/Debug-iphoneos/iOSIntPackage.build/Objects-normal/arm64/iOSIntPackage-master-emit-module.dia",
+    "swift-dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Index.noindex/Build/Intermediates.noindex/iOSIntPackage.build/Debug-iphoneos/iOSIntPackage.build/Objects-normal/arm64/iOSIntPackage-master.swiftdeps"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Index.noindex/Build/Intermediates.noindex/iOSIntPackage.build/Debug-iphoneos/iOSIntPackage.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Index.noindex/Build/Intermediates.noindex/iOSIntPackage.build/Debug-iphoneos/iOSIntPackage.build/DerivedSources/resource_bundle_accessor.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/SourcePackages/checkouts/iOSIntPackage/Sources/iOSIntPackage/Filters.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/SourcePackages/checkouts/iOSIntPackage/Sources/iOSIntPackage/ImageProcessor.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/SourcePackages/checkouts/iOSIntPackage/Sources/iOSIntPackage/Images.swift" : {
+
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/SourcePackages/checkouts/iOSIntPackage/Sources/iOSIntPackage/iOSIntPackage.swift" : {
+
+  }
+}

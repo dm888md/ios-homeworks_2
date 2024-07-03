@@ -1,0 +1,36 @@
+Target dependency graph (17 targets)
+Target 'StorageService' in project 'Navigation' (no dependencies)
+Target 'Navigation' in project 'Navigation'
+➜ Explicit dependency on target 'StorageService' in project 'Navigation'
+➜ Explicit dependency on target 'iOSIntPackage' in project 'iOSIntPackage'
+➜ Explicit dependency on target 'SnapKit' in project 'SnapKit'
+Target 'SnapKit' in project 'SnapKit'
+➜ Explicit dependency on target 'SnapKit' in project 'SnapKit'
+➜ Explicit dependency on target 'SnapKit_SnapKit' in project 'SnapKit'
+Target 'SnapKit' in project 'SnapKit'
+➜ Explicit dependency on target 'SnapKit_SnapKit' in project 'SnapKit'
+Target 'SnapKit_SnapKit' in project 'SnapKit' (no dependencies)
+Target 'iOSIntPackage' in project 'iOSIntPackage'
+➜ Explicit dependency on target 'iOSIntPackage' in project 'iOSIntPackage'
+➜ Explicit dependency on target 'iOSIntPackage_iOSIntPackage' in project 'iOSIntPackage'
+Target 'iOSIntPackage' in project 'iOSIntPackage'
+➜ Explicit dependency on target 'iOSIntPackage_iOSIntPackage' in project 'iOSIntPackage'
+Target 'iOSIntPackage_iOSIntPackage' in project 'iOSIntPackage' (no dependencies)
+Target 'StorageService' in project 'Navigation' (no dependencies)
+Target 'Navigation' in project 'Navigation'
+➜ Explicit dependency on target 'StorageService' in project 'Navigation'
+➜ Explicit dependency on target 'iOSIntPackage' in project 'iOSIntPackage'
+➜ Explicit dependency on target 'SnapKit' in project 'SnapKit'
+Target 'SnapKit' in project 'SnapKit'
+➜ Explicit dependency on target 'SnapKit' in project 'SnapKit'
+➜ Explicit dependency on target 'SnapKit_SnapKit' in project 'SnapKit'
+Target 'SnapKit' in project 'SnapKit'
+➜ Explicit dependency on target 'SnapKit_SnapKit' in project 'SnapKit'
+Target 'SnapKit_SnapKit' in project 'SnapKit' (no dependencies)
+Target 'iOSIntPackage' in project 'iOSIntPackage'
+➜ Explicit dependency on target 'iOSIntPackage' in project 'iOSIntPackage'
+➜ Explicit dependency on target 'iOSIntPackage_iOSIntPackage' in project 'iOSIntPackage'
+Target 'iOSIntPackage' in project 'iOSIntPackage'
+➜ Explicit dependency on target 'iOSIntPackage_iOSIntPackage' in project 'iOSIntPackage'
+Target 'iOSIntPackage_iOSIntPackage' in project 'iOSIntPackage' (no dependencies)
+Target 'StorageService' in project 'Navigation' (no dependencies)

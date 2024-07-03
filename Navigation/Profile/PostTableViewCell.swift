@@ -5,14 +5,15 @@
 
 import UIKit
 import StorageService
+import iOSIntPackage
 
 
 class PostTableViewCell: UITableViewCell {
-    
+
     private var viewCounter = 0
 
     // MARK: Visual objects
-    
+
     var postAuthor: UILabel = {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
@@ -47,7 +48,6 @@ class PostTableViewCell: UITableViewCell {
         return label
     }()
 
-
     var postViews: UILabel = {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
@@ -57,7 +57,7 @@ class PostTableViewCell: UITableViewCell {
     }()
 
     // MARK: - Init section
-    
+
     override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
         super.init(style: style, reuseIdentifier: reuseIdentifier)
         contentView.addSubviews(postAuthor, postImage, postDescription, postLikes, postViews)
@@ -68,7 +68,7 @@ class PostTableViewCell: UITableViewCell {
     required init?(coder: NSCoder) {
         fatalError("lol")
     }
-    
+
     private func setupConstraints() {
         NSLayoutConstraint.activate([
             postAuthor.topAnchor.constraint(equalTo: contentView.topAnchor, constant: LayoutConstants.indent),
@@ -94,7 +94,7 @@ class PostTableViewCell: UITableViewCell {
     }
 
     // MARK: - Run loop
-    
+
     func configPostArray(post: Post) {
         postAuthor.text = post.author
         postDescription.text = post.description
@@ -103,7 +103,7 @@ class PostTableViewCell: UITableViewCell {
         viewCounter = post.views
         postViews.text = "Views: \(viewCounter)"
     }
-    
+
     func incrementPostViewsCounter() {
         viewCounter += 1
         postViews.text = "Views: \(viewCounter)"

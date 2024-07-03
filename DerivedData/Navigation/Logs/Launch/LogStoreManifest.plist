@@ -6,10 +6,10 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>A86D981A-0DD9-4FDC-8496-E03599D18529</key>
+		<key>1BEE1116-8ADB-4512-B54D-01775C5BD78E</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>86905E06-7FE7-4AA2-941F-73C9C494ED6F</string>
+			<string>7B00507F-A40B-4F7C-B6A2-42501ED30233</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,7 +30,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Release-2024.06.30_08-24-57-+0600.xcresult</string>
+			<string>Run-Release-2024.07.03_19-45-33-+0600.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -59,13 +59,74 @@
 			<key>signature</key>
 			<string>Run Release</string>
 			<key>timeStartedRecording</key>
-			<real>741407097.46960604</real>
+			<real>741707133.82612205</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Release</string>
 			<key>uniqueIdentifier</key>
-			<string>A86D981A-0DD9-4FDC-8496-E03599D18529</string>
+			<string>1BEE1116-8ADB-4512-B54D-01775C5BD78E</string>
+		</dict>
+		<key>E0609EF2-C102-41CE-BE9A-8C02311FFCF1</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F92E4CC7-2C86-469D-A556-0B829D87D0F4</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Release-2024.07.01_21-04-02-+0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Navigation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Release</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Release</string>
+			<key>timeStartedRecording</key>
+			<real>741539042.45742297</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Release</string>
+			<key>uniqueIdentifier</key>
+			<string>E0609EF2-C102-41CE-BE9A-8C02311FFCF1</string>
 		</dict>
 	</dict>
 </dict>

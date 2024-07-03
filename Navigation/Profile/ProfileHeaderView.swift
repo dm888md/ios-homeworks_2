@@ -7,9 +7,9 @@ import UIKit
 import SnapKit
 
 final class ProfileHeaderView: UITableViewHeaderFooterView {
-    
+
     // MARK: Visual objects
-    
+
     var fullNameLabel = UILabel()
     var avatarImageView = UIImageView()
     var statusLabel = UILabel()
@@ -17,28 +17,28 @@ final class ProfileHeaderView: UITableViewHeaderFooterView {
     var setStatusButton = UIButton()
     var returnAvatarButton = UIButton()
     var avatarBackground = UIView()
-    
+
     private var statusText = "Ready to help"
     private var avatarOriginPoint = CGPoint()
     
     // MARK: - Setup section
-    
+
     override init(reuseIdentifier: String?) {
         super.init(reuseIdentifier: reuseIdentifier)
-        
+
         setupNameLabel()
         setupStatusLabel()
         setupStatusTextField()
         setupStatusButton()
         setupAvatarImage()
-        
+
         statusTextField.delegate = self
     }
-    
+
     required init?(coder: NSCoder) {
         fatalError("lol")
     }
-    
+
     private func setupNameLabel() {
         fullNameLabel.translatesAutoresizingMaskIntoConstraints = false
         fullNameLabel.text = "Teo West"
@@ -51,9 +51,9 @@ final class ProfileHeaderView: UITableViewHeaderFooterView {
             make.trailing.equalTo(safeAreaLayoutGuide.snp.trailing).offset(-16)
             make.height.equalTo(28)
         }
-        
+
     }
-    
+
     private func setupStatusLabel() {
         statusLabel.translatesAutoresizingMaskIntoConstraints = false
         statusLabel.text = statusText
@@ -67,12 +67,12 @@ final class ProfileHeaderView: UITableViewHeaderFooterView {
             make.height.equalTo(fullNameLabel.snp.height)
         }
     }
-    
+
     private func setupStatusTextField() {
         statusTextField.translatesAutoresizingMaskIntoConstraints = false
         statusTextField.textColor = .darkGray
         statusTextField.backgroundColor = .white
-        
+
         let paddingView: UIView = UIView(frame: CGRect(x: 0, y: 0, width: 10, height: 20))
         statusTextField.leftView = paddingView
         statusTextField.leftViewMode = .always
@@ -89,7 +89,7 @@ final class ProfileHeaderView: UITableViewHeaderFooterView {
             make.height.equalTo(32)
         }
     }
-    
+
     private func setupStatusButton() {
         setStatusButton.translatesAutoresizingMaskIntoConstraints = false
         setStatusButton.backgroundColor = .systemBlue
@@ -110,7 +110,7 @@ final class ProfileHeaderView: UITableViewHeaderFooterView {
             make.height.equalTo(48)
         }
     }
-    
+
     private func setupAvatarImage() {
         avatarImageView.translatesAutoresizingMaskIntoConstraints = false
         avatarImageView.image = UIImage(named: "teo")
@@ -118,14 +118,14 @@ final class ProfileHeaderView: UITableViewHeaderFooterView {
         avatarImageView.layer.borderWidth = 3
         avatarImageView.layer.borderColor = UIColor.white.cgColor
         avatarImageView.clipsToBounds = true
-        
+
         // add a tap gesture
         let tapGesture = UITapGestureRecognizer(target: self, action: #selector(didTapOnAvatar))
         tapGesture.numberOfTapsRequired = 1
         tapGesture.numberOfTouchesRequired = 1
         avatarImageView.isUserInteractionEnabled = true
         avatarImageView.addGestureRecognizer(tapGesture)
-        
+
         // cancel an animation mode
         returnAvatarButton.translatesAutoresizingMaskIntoConstraints = false
         returnAvatarButton.alpha = 0
@@ -134,48 +134,48 @@ final class ProfileHeaderView: UITableViewHeaderFooterView {
         returnAvatarButton.setImage(UIImage(systemName: "xmark", withConfiguration: UIImage.SymbolConfiguration(pointSize: 22))?.withTintColor(.black, renderingMode: .automatic), for: .normal)
         returnAvatarButton.tintColor = .black
         returnAvatarButton.addTarget(self, action: #selector(returnAvatarToOrigin), for: .touchUpInside)
-        
+
         // translucent background for the modal animation mode
         avatarBackground = UIView(frame: CGRect(x: 0, y: 0, width: UIScreen.main.bounds.width, height: UIScreen.main.bounds.height))
         avatarBackground.backgroundColor = .darkGray
         avatarBackground.isHidden = true
         avatarBackground.alpha = 0
-        
+
         addSubviews(avatarBackground, avatarImageView, returnAvatarButton)
-        
+
         avatarImageView.snp.makeConstraints { (make) -> Void in
             make.top.equalTo(safeAreaLayoutGuide.snp.top).offset(16)
             make.leading.equalTo(safeAreaLayoutGuide.snp.leading).offset(16)
             make.width.equalTo(128)
             make.height.equalTo(avatarImageView.snp.width)
         }
-        
+
         returnAvatarButton.snp.makeConstraints { (make) -> Void in
             make.top.equalTo(safeAreaLayoutGuide.snp.bottom).offset(16)
             make.trailing.equalTo(safeAreaLayoutGuide.snp.trailing).offset(-16)
         }
     }
-    
+
     // MARK: - Event handlers
-    
+
     @objc private func statusTextChanged(_ textField: UITextField) {
         statusText = textField.text ?? ""
     }
-    
+
     @objc private func statusButtonPressed() {
         statusLabel.text = statusText
     }
-    
+
     @objc private func didTapOnAvatar() {
         // create an animation
         avatarImageView.isUserInteractionEnabled = false
-        
+
         ProfileViewController.postTableView.isScrollEnabled = false
         ProfileViewController.postTableView.cellForRow(at: IndexPath(row: 0, section: 0))?.isUserInteractionEnabled = false
-        
+
         avatarOriginPoint = avatarImageView.center
         let scale = UIScreen.main.bounds.width / avatarImageView.bounds.width
-        
+
         UIView.animate(withDuration: 0.5) {
             self.avatarImageView.center = CGPoint(x: UIScreen.main.bounds.midX,
                                                   y: UIScreen.main.bounds.midY - self.avatarOriginPoint.y)
@@ -189,7 +189,7 @@ final class ProfileHeaderView: UITableViewHeaderFooterView {
             }
         }
     }
-    
+
     @objc private func returnAvatarToOrigin() {
         UIImageView.animate(withDuration: 0.5) {
             UIImageView.animate(withDuration: 0.5) {
@@ -210,7 +210,7 @@ final class ProfileHeaderView: UITableViewHeaderFooterView {
 // MARK: - Extension
 
 extension ProfileHeaderView: UITextFieldDelegate {
-    
+
     // tap 'done' on the keyboard
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
         textField.resignFirstResponder()

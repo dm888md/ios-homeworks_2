@@ -7,6 +7,23 @@
       {
         "basedOn" : null,
         "packageRef" : {
+          "identity" : "iosintpackage",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/TrueMax/iOSIntPackage",
+          "name" : "iOSIntPackage"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "78a55cb525e18e6bb05886bd5572cfa67ee7b47e",
+            "version" : "2.2.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "iOSIntPackage"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
           "identity" : "snapkit",
           "kind" : "remoteSourceControl",
           "location" : "https://github.com/SnapKit/SnapKit.git",
