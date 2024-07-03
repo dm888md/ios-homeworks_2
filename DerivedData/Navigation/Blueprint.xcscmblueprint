@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "82925BA82FC05B731F77D4540FD37371906AA375",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4018A2FB2A5F37FBB0EBFFA9CB950D8CD47A10E8" : 0,
+    "82925BA82FC05B731F77D4540FD37371906AA375" : 0,
+    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B970B860-CC20-498D-BFAE-C61794A45641",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4018A2FB2A5F37FBB0EBFFA9CB950D8CD47A10E8" : "MyProject\/DerivedData\/Navigation\/SourcePackages\/checkouts\/iOSIntPackage\/",
+    "82925BA82FC05B731F77D4540FD37371906AA375" : "MyProject\/",
+    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : "MyProject\/DerivedData\/Navigation\/SourcePackages\/checkouts\/SnapKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Navigation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Navigation.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/dmitrij\/Documents\/%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5\/MyProject\/DerivedData\/Navigation\/SourcePackages\/repositories\/SnapKit-a5691e5b",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3AF18F9C6F5D633BAA0B3F935459E0C777C82047"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/dmitrij\/Documents\/%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5\/MyProject\/DerivedData\/Navigation\/SourcePackages\/repositories\/iOSIntPackage-0b0d66df",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4018A2FB2A5F37FBB0EBFFA9CB950D8CD47A10E8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:dm888md\/ios-homeworks_2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "82925BA82FC05B731F77D4540FD37371906AA375"
+    }
+  ]
+}

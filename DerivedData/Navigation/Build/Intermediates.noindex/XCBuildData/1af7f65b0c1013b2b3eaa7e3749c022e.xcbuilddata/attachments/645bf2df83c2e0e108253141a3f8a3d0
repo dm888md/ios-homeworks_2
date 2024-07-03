@@ -1,0 +1,90 @@
+{
+  "" : {
+    "const-values" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/Navigation-master.swiftconstvalues",
+    "dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/Navigation-master.d",
+    "diagnostics" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/Navigation-master.dia",
+    "emit-module-dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/Navigation-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/Navigation-master-emit-module.dia",
+    "swift-dependencies" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/Navigation-master.swiftdeps"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/AppDelegate.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/FeedViewController.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/FeedViewController.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/FeedViewController.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/FeedViewController.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/InfoViewController.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/InfoViewController.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/InfoViewController.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/InfoViewController.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Library/ExtensionUIImage.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/ExtensionUIImage.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/ExtensionUIImage.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/ExtensionUIImage.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Library/ExtensionUIView.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/ExtensionUIView.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/ExtensionUIView.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/ExtensionUIView.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Library/LayoutConstants.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/LayoutConstants.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/LayoutConstants.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/LayoutConstants.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Library/PhotoExamples.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PhotoExamples.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PhotoExamples.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PhotoExamples.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/LoginViewController.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/LoginViewController.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/LoginViewController.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/LoginViewController.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/PhotosCollectionViewCell.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PhotosCollectionViewCell.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PhotosCollectionViewCell.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PhotosCollectionViewCell.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/PhotosTableViewCell.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PhotosTableViewCell.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PhotosTableViewCell.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PhotosTableViewCell.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/PhotosViewController.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PhotosViewController.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PhotosViewController.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PhotosViewController.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/PostTableViewCell.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PostTableViewCell.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PostTableViewCell.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PostTableViewCell.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/PostViewController.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PostViewController.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PostViewController.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/PostViewController.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/ProfileHeaderView.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/ProfileHeaderView.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/ProfileHeaderView.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/ProfileHeaderView.o"
+  },
+  "/Users/dmitrij/Documents/Обучение/MyProject/Navigation/Profile/ProfileViewController.swift" : {
+    "index-unit-output-path" : "/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/ProfileViewController.o",
+    "llvm-bc" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/ProfileViewController.bc",
+    "object" : "/Users/dmitrij/Documents/Обучение/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/Navigation.build/Release-iphonesimulator/Navigation.build/Objects-normal/arm64/ProfileViewController.o"
+  }
+}

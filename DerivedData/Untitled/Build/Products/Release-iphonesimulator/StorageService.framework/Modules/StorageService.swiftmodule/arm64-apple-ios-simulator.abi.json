@@ -1,0 +1,458 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Var",
+        "name": "postExamples",
+        "printedName": "postExamples",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Array",
+            "printedName": "[StorageService.Post]",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Post",
+                "printedName": "StorageService.Post",
+                "usr": "s:14StorageService4PostV"
+              }
+            ],
+            "usr": "s:Sa"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:14StorageService12postExamplesSayAA4PostVGvp",
+        "mangledName": "$s14StorageService12postExamplesSayAA4PostVGvp",
+        "moduleName": "StorageService",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true,
+        "accessors": [
+          {
+            "kind": "Accessor",
+            "name": "Get",
+            "printedName": "Get()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[StorageService.Post]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Post",
+                    "printedName": "StorageService.Post",
+                    "usr": "s:14StorageService4PostV"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Accessor",
+            "usr": "s:14StorageService12postExamplesSayAA4PostVGvg",
+            "mangledName": "$s14StorageService12postExamplesSayAA4PostVGvg",
+            "moduleName": "StorageService",
+            "implicit": true,
+            "accessorKind": "get"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "StorageService",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Post",
+        "printedName": "Post",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "author",
+            "printedName": "author",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14StorageService4PostV6authorSSvp",
+            "mangledName": "$s14StorageService4PostV6authorSSvp",
+            "moduleName": "StorageService",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14StorageService4PostV6authorSSvg",
+                "mangledName": "$s14StorageService4PostV6authorSSvg",
+                "moduleName": "StorageService",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "description",
+            "printedName": "description",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14StorageService4PostV11descriptionSSvp",
+            "mangledName": "$s14StorageService4PostV11descriptionSSvp",
+            "moduleName": "StorageService",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14StorageService4PostV11descriptionSSvg",
+                "mangledName": "$s14StorageService4PostV11descriptionSSvg",
+                "moduleName": "StorageService",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "image",
+            "printedName": "image",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14StorageService4PostV5imageSSvp",
+            "mangledName": "$s14StorageService4PostV5imageSSvp",
+            "moduleName": "StorageService",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14StorageService4PostV5imageSSvg",
+                "mangledName": "$s14StorageService4PostV5imageSSvg",
+                "moduleName": "StorageService",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "likes",
+            "printedName": "likes",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14StorageService4PostV5likesSivp",
+            "mangledName": "$s14StorageService4PostV5likesSivp",
+            "moduleName": "StorageService",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14StorageService4PostV5likesSivg",
+                "mangledName": "$s14StorageService4PostV5likesSivg",
+                "moduleName": "StorageService",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "views",
+            "printedName": "views",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14StorageService4PostV5viewsSivp",
+            "mangledName": "$s14StorageService4PostV5viewsSivp",
+            "moduleName": "StorageService",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14StorageService4PostV5viewsSivg",
+                "mangledName": "$s14StorageService4PostV5viewsSivg",
+                "moduleName": "StorageService",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:14StorageService4PostV",
+        "mangledName": "$s14StorageService4PostV",
+        "moduleName": "StorageService",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "StringLiteral",
+      "offset": 98,
+      "length": 11,
+      "value": "\"Kat Vadam\""
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "StringLiteral",
+      "offset": 133,
+      "length": 93,
+      "value": "\"Zelda Metal Band Master Sword is Kickstarting a New Album, and We’ve Got the Inside Scoop\""
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "StringLiteral",
+      "offset": 244,
+      "length": 7,
+      "value": "\"post1\""
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "IntegerLiteral",
+      "offset": 269,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "IntegerLiteral",
+      "offset": 289,
+      "length": 3,
+      "value": "120"
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "StringLiteral",
+      "offset": 312,
+      "length": 15,
+      "value": "\"George Cortez\""
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "StringLiteral",
+      "offset": 351,
+      "length": 67,
+      "value": "\"Daily Debate: Will We Ever Receive Another Sequel to Four Swords?\""
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "StringLiteral",
+      "offset": 436,
+      "length": 7,
+      "value": "\"post2\""
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "IntegerLiteral",
+      "offset": 461,
+      "length": 2,
+      "value": "11"
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "IntegerLiteral",
+      "offset": 481,
+      "length": 2,
+      "value": "93"
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "StringLiteral",
+      "offset": 503,
+      "length": 10,
+      "value": "\"Sid Poem\""
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "StringLiteral",
+      "offset": 537,
+      "length": 69,
+      "value": "\"What Future Iterations of the Master Cycle Zero Do You Want to See?\""
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "StringLiteral",
+      "offset": 624,
+      "length": 7,
+      "value": "\"post3\""
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "IntegerLiteral",
+      "offset": 649,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "IntegerLiteral",
+      "offset": 668,
+      "length": 2,
+      "value": "34"
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "StringLiteral",
+      "offset": 690,
+      "length": 14,
+      "value": "\"Mike Midwood\""
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "StringLiteral",
+      "offset": 728,
+      "length": 53,
+      "value": "\"New Lo-Fi Fan Album Ocarina of Vibes Releases Today\""
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "StringLiteral",
+      "offset": 799,
+      "length": 7,
+      "value": "\"post4\""
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "IntegerLiteral",
+      "offset": 824,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/dmitrij\/Documents\/Обучение\/MyProject\/StorageService\/PostExamples.swift",
+      "kind": "IntegerLiteral",
+      "offset": 844,
+      "length": 3,
+      "value": "136"
+    }
+  ]
+}

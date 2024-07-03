@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "c93d0ec614f963fdaeafd56245934ed635e0e20fc48ed8147f5caa251a9d92d3"
+build_start_time: [1719714669, 871656000]
+build_end_time: [1719714673, 8589000]
+inputs:
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/iOSIntPackage.build/Release-iphonesimulator/iOSIntPackage.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1719714669, 823775216]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/Build/Intermediates.noindex/iOSIntPackage.build/Release-iphonesimulator/iOSIntPackage.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1719714669, 818221000]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/iOSIntPackage/Sources/iOSIntPackage/Filters.swift"
+  : [1719714655, 793516420]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/iOSIntPackage/Sources/iOSIntPackage/ImageProcessor.swift"
+  : [1719714655, 793585419]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/iOSIntPackage/Sources/iOSIntPackage/Images.swift"
+  : [1719714655, 793644751]
+  ? "/Users/dmitrij/Documents/\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435/MyProject/DerivedData/Navigation/SourcePackages/checkouts/iOSIntPackage/Sources/iOSIntPackage/iOSIntPackage.swift"
+  : [1719714655, 794776642]
